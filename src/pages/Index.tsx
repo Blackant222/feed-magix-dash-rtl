@@ -202,7 +202,7 @@ const Index = () => {
         </div>
       </header>
 
-      <main className="container mx-auto px-4 pt-6 pb-28 md:pb-10">
+      <main className="container mx-auto px-4 pt-6 pb-28 lg:pb-10">
         <h1 className="sr-only">داشبورد اصلی فیدمجیکس</h1>
 
         {/* Row 1 - Welcome */}
